@@ -1,4 +1,4 @@
-[serialize-to-javascript]
+[rust-serialize-to-javascript]
 spec = "serialize-to-javascript.spec"
 build_script = ""
 build_method = "mock"
